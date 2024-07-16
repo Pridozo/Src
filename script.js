@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Simple form submission prevention
     document.querySelector('form').addEventListener('submit', (e) => {
         e.preventDefault();
-        alert('Paysons Github - github.com/Pridozo\n\nWebsite Made by Pridozo');
+        alert('Paysons Github - github.com/Pridozo\n\nWebsite Made by Ideal');
     });
 
     // Intersection Observer for section animations
